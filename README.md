@@ -11,7 +11,9 @@ A version of the final Streamlit app is available online: https://austin-animal-
 ## Files in this Repository:
 
 `codealong_blank` is the blank version of the notebook, without pre-written code, which will be live-coded during the workshop session.
+
 `codealong_complete` is a complete version of the notebook, although it may differ slightly from what is live-coded.
+
 `app.py` is a version of the visualization code, adapted to be run as a Streamlit app.
 
 ## Accessing the Code:
