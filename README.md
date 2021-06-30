@@ -8,7 +8,9 @@ A version of the final Streamlit app is available online: https://austin-animal-
 
 [Austin Animal Center Intakes Data](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm/)
 
-## Files in this Repository:
+*Please note* I used the Python library [geopy](https://geopy.readthedocs.io/en/stable/) to gather some specific location data (zipcodes, latitudes and longitudes) to augment the original data - [full credit to the OpenStreetMap contributors, who make the data available under the Open Database License!](https://www.openstreetmap.org/copyright)
+
+## Workshop Files in this Repository:
 
 `codealong_blank` is the blank version of the notebook, without pre-written code, which will be live-coded during the workshop session.
 
@@ -24,8 +26,10 @@ The easiest way to follow along with the code is by clicking here: [![Binder](ht
 
 If you do want to run the code on your own, download Jupyter Notebook and run these lines in your terminal:
 
-```
-git clone https://github.com/flatiron-school/Visualizing-Deploying-Data-Analysis-Workshop.git
-cd meetup-movie-recommender
-jupyter notebook
-```
+1. `git clone https://github.com/flatiron-school/Visualizing-Deploying-Data-Analysis-Workshop.git`
+2. `cd Visualizing-Deploying-Data-Analysis-Workshop`
+3. `jupyter notebook`
+
+## Thanks for attending!
+
+[Feel free to connect with me!](https://www.linkedin.com/in/lindseyberlin/)
