@@ -8,7 +8,7 @@ A version of the final Streamlit app is available online: https://austin-animal-
 
 [Austin Animal Center Intakes Data](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm/)
 
-*Please note* I used the Python library [geopy](https://geopy.readthedocs.io/en/stable/) to gather some specific location data (zipcodes, latitudes and longitudes) to augment the original data - [full credit to the OpenStreetMap contributors, who make the data available under the Open Database License!](https://www.openstreetmap.org/copyright)
+*Please note* - I used the Python library [geopy](https://geopy.readthedocs.io/en/stable/) to gather some specific location data (zipcodes, latitudes and longitudes) to augment the original data - full credit to the OpenStreetMap contributors, [who make the data available under the Open Database License!](https://www.openstreetmap.org/copyright)
 
 ## Workshop Files in this Repository:
 
